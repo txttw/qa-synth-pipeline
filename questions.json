@@ -1,0 +1,1694 @@
+[
+  {
+    "id": "cbe13d7a-b169-1dd9-9172-4af7214ec187",
+    "document": "eed254ab-8a79-25ff-cb1b-6432aea81650",
+    "q": "How does the imaging process start?",
+    "a": "the imaging process begins when light passes through the camera's lens and strikes the sensor"
+  },
+  {
+    "id": "b7a1d8d5-e169-0f85-b585-96731e495c28",
+    "document": "eed254ab-8a79-25ff-cb1b-6432aea81650",
+    "q": "What converts light energy into an electrical charge?",
+    "a": "millions of light receptors, photosites, which convert the light energy into an electrical charge"
+  },
+  {
+    "id": "422a9394-ca9b-2d67-f13c-9850f948b655",
+    "document": "eed254ab-8a79-25ff-cb1b-6432aea81650",
+    "q": "How is the magnitude of the charge related to the light intensity?",
+    "a": "The magnitude of the charge is proportional to the intensity of the light"
+  },
+  {
+    "id": "a96297af-f146-556a-aeee-3e115a759290",
+    "document": "eed254ab-8a79-25ff-cb1b-6432aea81650",
+    "q": "How does the amount of light hitting a photosite affect the electrical charge it produces?",
+    "a": "the more light it hits, the stronger the electrical charge it produces"
+  },
+  {
+    "id": "b3b4d347-48e0-0775-b3d2-ffb7e7ddf473",
+    "document": "eed254ab-8a79-25ff-cb1b-6432aea81650",
+    "q": "What type of sensors work differently from the standard sensors?",
+    "a": "SPAD sensors work a little differently \u2013 more on this later."
+  },
+  {
+    "id": "90853e1c-49e8-4fc1-bc74-a38a4cbac798",
+    "document": "eed254ab-8a79-25ff-cb1b-6432aea81650",
+    "q": "What passes through the camera's lens?",
+    "a": "light passes through the camera's lens and strikes the sensor"
+  },
+  {
+    "id": "e54075b9-cfda-ded1-35eb-9bf2daa7403a",
+    "document": "eed254ab-8a79-25ff-cb1b-6432aea81650",
+    "q": "What does the sensor contain?",
+    "a": "millions of light receptors, photosites, which convert the light energy into an electrical charge"
+  },
+  {
+    "id": "4d2cdad2-df6a-cf33-a84f-63b8646e34c7",
+    "document": "eed254ab-8a79-25ff-cb1b-6432aea81650",
+    "q": "What occurs when light hits a particular photosite?",
+    "a": "the light hits a particular photosite"
+  },
+  {
+    "id": "fc6a9e0c-4d15-6833-c673-94b869a464aa",
+    "document": "eed254ab-8a79-25ff-cb1b-6432aea81650",
+    "q": "What results from the light receptors when they produce the stronger the electrical charge?",
+    "a": "the magnitude of the charge is proportional to the intensity of the light \u2013 the more light that hits a particular photosite, the stronger the electrical charge it produces"
+  },
+  {
+    "id": "8155c57f-1f33-7805-ed4f-957e754627f5",
+    "document": "eed254ab-8a79-25ff-cb1b-6432aea81650",
+    "q": "How do SPAD sensors operate compared to other sensors?",
+    "a": "SPAD sensors work a little differently \u2013 more on this later."
+  },
+  {
+    "id": "b9ddcc40-b959-4780-3acd-92796fa43425",
+    "document": "45855f79-4f1c-31b9-e1ac-4c3070778c73",
+    "q": "What does This imply?",
+    "a": "This means some photosites record the intensity of red light, some the intensity of green, and some the intensity of blue."
+  },
+  {
+    "id": "e2faaeaa-caf5-9f59-caf6-4dc2ddde4920",
+    "document": "45855f79-4f1c-31b9-e1ac-4c3070778c73",
+    "q": "What are passed to the camera's image processor?",
+    "a": "The electrical signals from all the photosites in the sensor are passed to the camera's image processor"
+  },
+  {
+    "id": "60e72cf1-2979-7de1-61e3-5cabca2914b8",
+    "document": "45855f79-4f1c-31b9-e1ac-4c3070778c73",
+    "q": "What information is passed to the camera's image processor?",
+    "a": "The electrical signals from all the photosites in the sensor are passed to the camera's image processor"
+  },
+  {
+    "id": "321790c4-5b8b-5a12-d192-1b78f61c3ec6",
+    "document": "45855f79-4f1c-31b9-e1ac-4c3070778c73",
+    "q": "What does the camera's image processor determine from the electrical signals of the photosites?",
+    "a": "The electrical signals from all the photosites in the sensor are passed to the camera's image processor, which interprets all this information and determines the colour and brightness values of all the individual pixels (picture elements) that make up a digital image."
+  },
+  {
+    "id": "fb847fd0-45b4-ecc0-7daf-cdda89fe540d",
+    "document": "45855f79-4f1c-31b9-e1ac-4c3070778c73",
+    "q": "How are photosites equipped?",
+    "a": "photosites are fitted with red, green and blue colour filters"
+  },
+  {
+    "id": "38edc781-582a-cbe7-95a7-ba4a616493f4",
+    "document": "45855f79-4f1c-31b9-e1ac-4c3070778c73",
+    "q": "What does the sensor determine?",
+    "a": "the electrical signals from all the photosites in the sensor are passed to the camera's image processor, which interprets all this information and determines the colour and brightness values of all the individual pixels (picture elements) that make up a digital image."
+  },
+  {
+    "id": "e3430556-6019-74a7-6feb-7999118002b6",
+    "document": "45855f79-4f1c-31b9-e1ac-4c3070778c73",
+    "q": "How do the electrical signals from all the photosites in the sensor travel?",
+    "a": "The electrical signals from all the photosites in the sensor are passed to the camera's image processor"
+  },
+  {
+    "id": "7599d2c5-c01b-8942-618d-7724fb7790b5",
+    "document": "11b8582e-630c-a7c8-03ec-6d43c4656bea",
+    "q": "What is focused through the lens onto the image sensor?",
+    "a": "Light from the subject you're shooting is focused through the lens onto the image sensor"
+  },
+  {
+    "id": "9e040885-c5b9-a34f-1cb6-58a230afdc35",
+    "document": "11b8582e-630c-a7c8-03ec-6d43c4656bea",
+    "q": "What does the camera temporarily hold?",
+    "a": "images"
+  },
+  {
+    "id": "fa6abd33-0a90-fa64-e7a3-98af6736bf10",
+    "document": "11b8582e-630c-a7c8-03ec-6d43c4656bea",
+    "q": "What is the outcome of the camera's process?",
+    "a": "a digital image"
+  },
+  {
+    "id": "20943d65-ea21-d595-f934-b9c82259174e",
+    "document": "11b8582e-630c-a7c8-03ec-6d43c4656bea",
+    "q": "What is affected by the analogue electronics?",
+    "a": "The electrical signal generated by the sensor may be amplified by analogue electronics"
+  },
+  {
+    "id": "0a359b8f-1654-6e47-e008-48db514b4566",
+    "document": "abffdf63-03c8-e6b5-3851-4de2ede65ff2",
+    "q": "What happens to the data when you're shooting in RAW?",
+    "a": "this data is saved, along with information about the camera settings, in a RAW file"
+  },
+  {
+    "id": "41281a92-49a0-5e75-d0e2-d513e73c34d5",
+    "document": "abffdf63-03c8-e6b5-3851-4de2ede65ff2",
+    "q": "What colours can each individual photosite record?",
+    "a": "each individual photosite, remember, records only one colour \u2013 red, green or blue"
+  },
+  {
+    "id": "7af15e3b-d891-d338-4a18-9983d7bbf8ed",
+    "document": "abffdf63-03c8-e6b5-3851-4de2ede65ff2",
+    "q": "What processes occur in-camera when saving images in any other file format?",
+    "a": "white balance adjustment, sharpening and noise reduction, among other processes"
+  },
+  {
+    "id": "8f9cdca0-d284-7ed4-8e73-7d9b41e6d1f1",
+    "document": "abffdf63-03c8-e6b5-3851-4de2ede65ff2",
+    "q": "What happens to more of the original information captured by the sensor when images are saved in JPEG format?",
+    "a": "more of the original information captured by the sensor has been discarded"
+  },
+  {
+    "id": "06ce4896-eb12-9c61-e935-3a9e229263d5",
+    "document": "abffdf63-03c8-e6b5-3851-4de2ede65ff2",
+    "q": "What is saved in a RAW file when shooting in RAW?",
+    "a": "this data is saved, along with information about the camera settings, in a RAW file"
+  },
+  {
+    "id": "a440f024-0866-fa1d-52f4-cb521fbebf6d",
+    "document": "abffdf63-03c8-e6b5-3851-4de2ede65ff2",
+    "q": "What happens to the original information captured by the sensor when the image is a JPEG?",
+    "a": "more of the original information captured by the sensor has been discarded than has been kept"
+  },
+  {
+    "id": "3a14d1f7-eba8-5420-6500-169cffd2b8f9",
+    "document": "abffdf63-03c8-e6b5-3851-4de2ede65ff2",
+    "q": "What image processing steps are included in-camera for non-RAW file formats?",
+    "a": "white balance adjustment, sharpening and noise reduction, among other processes"
+  },
+  {
+    "id": "3496f595-7eaf-83b1-4288-f288c9449079",
+    "document": "abffdf63-03c8-e6b5-3851-4de2ede65ff2",
+    "q": "What does each individual photosite record?",
+    "a": "each individual photosite, remember, records only one colour \u2013 red, green or blue"
+  },
+  {
+    "id": "0a3151d1-265a-4b68-5525-e8e27e27c4a1",
+    "document": "9d113540-e673-7e72-e794-d7c334a62862",
+    "q": "What do you typically hear about in terms of sensor size?",
+    "a": "You conventionally hear about the number of megapixels (millions of pixels) in a sensor"
+  },
+  {
+    "id": "2f03f163-e2a0-794f-3e27-a1661862cc97",
+    "document": "9d113540-e673-7e72-e794-d7c334a62862",
+    "q": "What does the sensor have that are distinct?",
+    "a": "photosites"
+  },
+  {
+    "id": "e8bfafd6-cb34-3adb-3665-16b77a47d57f",
+    "document": "4238faa2-3715-2c67-453c-028599fa4fed",
+    "q": "What happens to the original information captured by the sensor in JPEG images?",
+    "a": "more of the original information captured by the sensor has been discarded"
+  },
+  {
+    "id": "8f160669-35c6-abf4-7b48-a8f3823a0177",
+    "document": "4238faa2-3715-2c67-453c-028599fa4fed",
+    "q": "How much of the original information captured by the sensor is discarded in JPEG images?",
+    "a": "more of the original information captured by the sensor has been discarded"
+  },
+  {
+    "id": "7e27bfde-ae9c-af13-4837-bce3a3935187",
+    "document": "d8c4fbe0-d664-bc91-810d-32830e8ad7ec",
+    "q": "What's more, what is more accurate to describe a sensor as?",
+    "a": "What is more accurate to describe a sensor as having a certain number of 'effective pixels'"
+  },
+  {
+    "id": "a4e2a978-8ae6-0755-a11e-b216b50add41",
+    "document": "d8c4fbe0-d664-bc91-810d-32830e8ad7ec",
+    "q": "What does the camera produce in terms of megapixels?",
+    "a": "the camera produces images or videos of that number of megapixels"
+  },
+  {
+    "id": "9191cadb-330c-f761-0c47-6ec6b9e085e7",
+    "document": "d8c4fbe0-d664-bc91-810d-32830e8ad7ec",
+    "q": "What is the relationship between sensels and pixels?",
+    "a": "there is not a one-to-one correspondence between sensels in the sensor and pixels in the resulting digital image"
+  },
+  {
+    "id": "9451d71d-b346-0eab-7ae2-5525c6ad4ee3",
+    "document": "d8c4fbe0-d664-bc91-810d-32830e8ad7ec",
+    "q": "What's more, what has a certain number of 'effective pixels'?",
+    "a": "What is more accurate to describe a sensor as having a certain number of 'effective pixels'"
+  },
+  {
+    "id": "a604e171-dea3-5017-e47f-72baf1f85a5d",
+    "document": "d8c4fbe0-d664-bc91-810d-32830e8ad7ec",
+    "q": "What is the camera's output in terms of megapixels?",
+    "a": "the camera produces images or videos of that number of megapixels"
+  },
+  {
+    "id": "6dfdab22-8c9b-5cf8-fec2-8dc461801315",
+    "document": "d8c4fbe0-d664-bc91-810d-32830e8ad7ec",
+    "q": "How many sensels in the sensor correspond to one pixel in the image?",
+    "a": "there is not a one-to-one correspondence between sensels in the sensor and pixels in the resulting digital image"
+  },
+  {
+    "id": "33807460-d350-5062-75f8-7cef7cb08568",
+    "document": "59d9e9b8-2dc9-e532-deec-1950f7cda9c2",
+    "q": "What is the approximate total pixel count of The Canon PowerShot V10's sensor?",
+    "a": "a sensor described as approximately 20.9MP in 'total pixels'"
+  },
+  {
+    "id": "3e12e0df-fc3c-fccd-205c-137e7bed1a24",
+    "document": "59d9e9b8-2dc9-e532-deec-1950f7cda9c2",
+    "q": "How is some of the sensor data utilized?",
+    "a": "some of the sensor data is used for technical processes such as distortion correction and digital image stabilisation"
+  },
+  {
+    "id": "757c3a9b-c6de-56f1-2fc1-5ae784249cec",
+    "document": "59d9e9b8-2dc9-e532-deec-1950f7cda9c2",
+    "q": "How does the PowerShot V10 deliver video?",
+    "a": "the PowerShot V10 delivers video (with Movie Digital IS)"
+  },
+  {
+    "id": "9b4b2f36-6612-caf7-2fb8-9813b07a6d81",
+    "document": "59d9e9b8-2dc9-e532-deec-1950f7cda9c2",
+    "q": "What are the still images subjected to?",
+    "a": "still images undergo different processes"
+  },
+  {
+    "id": "5bb6f839-0a44-dd4e-813a-dc93ca8528c1",
+    "document": "59d9e9b8-2dc9-e532-deec-1950f7cda9c2",
+    "q": "What does the PowerShot V10 deliver?",
+    "a": "video (with Movie Digital IS)"
+  },
+  {
+    "id": "05d59e5f-d5fe-f7d7-de71-2d71b4c0db24",
+    "document": "52de060a-32cd-9380-33bc-d6fd91f005de",
+    "q": "What is what makes it possible for the sensor to detect colour, not just light intensity?",
+    "a": "an illustration of a Bayer array, with alternating rows of red-and-green and blue-and-green colour filters. This is what makes it possible for the sensor to detect colour, not just light intensity"
+  },
+  {
+    "id": "3380c719-9b75-2878-545f-45464aa32432",
+    "document": "52de060a-32cd-9380-33bc-d6fd91f005de",
+    "q": "What is the human eye's sensitivity to red and blue light compared to green light?",
+    "a": "the human eye happens to be more sensitive to green light than to blue or red"
+  },
+  {
+    "id": "fc68319c-7058-fd51-991e-36e47452f78a",
+    "document": "c63ab71a-e862-c329-5a0f-f23ad877d807",
+    "q": "What types of cameras use CMOS sensors of this size?",
+    "a": "CMOS sensors of this size are used in compact cameras such as the Canon PowerShot G7 X Mark III and video cameras such as the Canon XF605 professional 4K camcorder."
+  },
+  {
+    "id": "416624e8-b524-7f48-e1ba-5013d7aea4f4",
+    "document": "c63ab71a-e862-c329-5a0f-f23ad877d807",
+    "q": "What devices are used for CMOS sensors of this size?",
+    "a": "CMOS sensors of this size are used in compact cameras such as the Canon PowerShot G7 X Mark III and video cameras such as the Canon XF605 professional 4K camcorder."
+  },
+  {
+    "id": "73e11275-0661-fff3-d0b3-0f2ff7c9fa36",
+    "document": "ac23747d-766b-5a54-9cff-baa07193e86b",
+    "q": "What type of photography emerged in the mid-1980s?",
+    "a": "Digital photography arrived in the mid-1980s"
+  },
+  {
+    "id": "cf1958ce-6536-4111-98af-4cf30925e4de",
+    "document": "ac23747d-766b-5a54-9cff-baa07193e86b",
+    "q": "What was the impact of CCD sensors on traditional photography methods?",
+    "a": "These sensors were the first to make it possible to capture images without the use of film, revolutionising photography"
+  },
+  {
+    "id": "3af141e2-9652-6ea1-8ea7-e0110648051f",
+    "document": "ac23747d-766b-5a54-9cff-baa07193e86b",
+    "q": "What can it capture?",
+    "a": "images"
+  },
+  {
+    "id": "2041475c-4149-bef0-cdc1-2b30773a2e56",
+    "document": "b91bde7c-7bee-1c84-99a7-3bd1a60c20b5",
+    "q": "What function do these capacitors perform when exposed to light?",
+    "a": "these capacitors, acting as individual photosites, absorb the light"
+  },
+  {
+    "id": "d43d3874-7a9d-737e-19ec-8dbff9d08c1f",
+    "document": "b91bde7c-7bee-1c84-99a7-3bd1a60c20b5",
+    "q": "How is the amount of charge at each photosite related to the intensity of the light that strikes it?",
+    "a": "The amount of charge at each photosite is directly proportional to the intensity of the light that strikes it."
+  },
+  {
+    "id": "dfd74584-0d5f-4bbe-0b9d-b155e87e8b4f",
+    "document": "b91bde7c-7bee-1c84-99a7-3bd1a60c20b5",
+    "q": "What do these capacitors do when light reaches the sensor?",
+    "a": "these capacitors, acting as individual photosites, absorb the light"
+  },
+  {
+    "id": "cfa09e4a-37a9-26f3-299a-ecde8daf81b0",
+    "document": "b91bde7c-7bee-1c84-99a7-3bd1a60c20b5",
+    "q": "What is the relationship between the amount of charge at each photosite and the light that strikes it?",
+    "a": "The amount of charge at each photosite is directly proportional to the intensity of the light that strikes it."
+  },
+  {
+    "id": "a5f740b4-4f4a-de08-d1ba-0dcad6559f95",
+    "document": "d1f7124d-9bc5-4fbe-22db-9a96e2166dc8",
+    "q": "How is the charge from each photosite transferred in a CCD sensor?",
+    "a": "the charge from each photosite is transferred through the sensor's grid and read at one corner of the array"
+  },
+  {
+    "id": "fdf64d83-108a-1202-925d-42f0b792552c",
+    "document": "d1f7124d-9bc5-4fbe-22db-9a96e2166dc8",
+    "q": "How is the charge from each photosite handled?",
+    "a": "the charge from each photosite is transferred through the sensor's grid"
+  },
+  {
+    "id": "e2f99e89-d9e1-601e-fdc1-8b45d900de8e",
+    "document": "d1f7124d-9bc5-4fbe-22db-9a96e2166dc8",
+    "q": "How is the charge from each photosite handled?",
+    "a": "the charge from each photosite is transferred through the sensor's grid and read at one corner of the array"
+  },
+  {
+    "id": "21671764-cb79-51d7-499c-bf9f93596f87",
+    "document": "d1f7124d-9bc5-4fbe-22db-9a96e2166dc8",
+    "q": "How is the charge from each photosite transferred in a CCD sensor?",
+    "a": "the charge from each photosite is transferred through the sensor's grid"
+  },
+  {
+    "id": "1b89f142-da5e-195a-c4cc-a084fb163ee7",
+    "document": "845446b0-9df9-f98d-226b-ff86a6db98a3",
+    "q": "What's more, what is not a one-to-one correspondence?",
+    "a": "there is not a one-to-one correspondence between sensels in the sensor and pixels in the resulting digital image, for a whole range of technical reasons"
+  },
+  {
+    "id": "35fdf598-a204-6f84-84c8-8f5ac322c332",
+    "document": "845446b0-9df9-f98d-226b-ff86a6db98a3",
+    "q": "What is the megapixel rating of the Canon PowerShot V10's still images?",
+    "a": "approximately 15.2MP"
+  },
+  {
+    "id": "6e2721e0-c01b-cc6f-a605-5151138607e8",
+    "document": "845446b0-9df9-f98d-226b-ff86a6db98a3",
+    "q": "What purpose do some of the sensor data serve?",
+    "a": "some of the sensor data is used for technical processes such as distortion correction and digital image stabilisation"
+  },
+  {
+    "id": "90b062c9-2210-5298-bbd5-0bd837cc2251",
+    "document": "845446b0-9df9-f98d-226b-ff86a6db98a3",
+    "q": "What undergo various processes?",
+    "a": "still images"
+  },
+  {
+    "id": "1efb9289-c87c-6bef-6fe3-71679502796c",
+    "document": "845446b0-9df9-f98d-226b-ff86a6db98a3",
+    "q": "What is more accurate to describe a sensor as having?",
+    "a": "a certain number of 'effective pixels'"
+  },
+  {
+    "id": "5bb6f839-0a44-dd4e-813a-dc93ca8528c1",
+    "document": "845446b0-9df9-f98d-226b-ff86a6db98a3",
+    "q": "What does the PowerShot V10 deliver?",
+    "a": "video (with Movie Digital IS)"
+  },
+  {
+    "id": "48f0d705-9e2c-2a07-404b-8cc04d13cb21",
+    "document": "845446b0-9df9-f98d-226b-ff86a6db98a3",
+    "q": "What is used for technical processes?",
+    "a": "some of the sensor data is used for technical processes such as distortion correction and digital image stabilisation"
+  },
+  {
+    "id": "cb60815e-23f9-8ca2-4931-cd697a4a256f",
+    "document": "845446b0-9df9-f98d-226b-ff86a6db98a3",
+    "q": "What undergo different processes?",
+    "a": "still images"
+  },
+  {
+    "id": "878aa379-7536-f998-284f-57de8af12655",
+    "document": "5a2a7632-669c-c5af-3bae-1b5bef8cbf68",
+    "q": "What type of colour filter mosaic is the Bayer array?",
+    "a": "the most common type of colour filter mosaic in digital sensors"
+  },
+  {
+    "id": "88c1858c-83a3-57a7-7b4f-b7c9db848d72",
+    "document": "5a2a7632-669c-c5af-3bae-1b5bef8cbf68",
+    "q": "What is the main benefit of the Bayer array in digital sensors?",
+    "a": "This is what makes it possible for the sensor to detect colour, not just light intensity"
+  },
+  {
+    "id": "1c539427-0943-28f1-6f61-9c306eb79940",
+    "document": "0e9068e8-768c-0cad-e06f-a49b53bc2daa",
+    "q": "How are CMOS sensors of this size employed?",
+    "a": "CMOS sensors of this size are used in compact cameras such as the Canon PowerShot G7 X Mark III and video cameras such as the Canon XF605 professional 4K camcorder"
+  },
+  {
+    "id": "31906b41-a225-c35b-5bfe-48e4270c02b8",
+    "document": "0e9068e8-768c-0cad-e06f-a49b53bc2daa",
+    "q": "What types of cameras are CMOS sensors of this size used in?",
+    "a": "compact cameras such as the Canon PowerShot G7 X Mark III"
+  },
+  {
+    "id": "9b4360fd-3c93-19c4-565d-6bcfc317b069",
+    "document": "e46599ac-66d4-b17d-14fa-ba3f036a4b4b",
+    "q": "What effect are These sensors having on photography?",
+    "a": "These sensors were the first to make it possible to capture images without the use of film, revolutionising photography."
+  },
+  {
+    "id": "0c061631-8e01-6780-b42e-96c9f055878e",
+    "document": "e46599ac-66d4-b17d-14fa-ba3f036a4b4b",
+    "q": "What innovation have These sensors introduced in photography?",
+    "a": "These sensors were the first to make it possible to capture images without the use of film, revolutionising photography."
+  },
+  {
+    "id": "159efaa8-1269-68c8-416a-a692aa5063a6",
+    "document": "179b29e8-cd81-a4ff-cc53-970cf23bd050",
+    "q": "How does the charge from each photosite get transferred?",
+    "a": "the charge from each photosite is transferred through the sensor's grid"
+  },
+  {
+    "id": "f7f55dc1-f9ba-f9bf-a0bc-66026bfe40e1",
+    "document": "179b29e8-cd81-a4ff-cc53-970cf23bd050",
+    "q": "How does This method guarantee image quality and uniformity?",
+    "a": "This method ensures a high degree of image quality and uniformity because each pixel uses the same pathway to output its signal."
+  },
+  {
+    "id": "2650a170-c290-99db-be00-6854de4aa9f5",
+    "document": "179b29e8-cd81-a4ff-cc53-970cf23bd050",
+    "q": "What happens to the charge from each photosite in a CCD sensor?",
+    "a": "the charge from each photosite is transferred through the sensor's grid"
+  },
+  {
+    "id": "2c9a1256-3991-fe41-49ba-d3b1fc9d9e19",
+    "document": "179b29e8-cd81-a4ff-cc53-970cf23bd050",
+    "q": "What is the outcome of using This method?",
+    "a": "This method ensures a high degree of image quality and uniformity because each pixel uses the same pathway to output its signal."
+  },
+  {
+    "id": "65eb43b6-8193-15df-a0fe-5e21502cc333",
+    "document": "e66fe35d-3c05-a98e-a973-af5c1df0eb97",
+    "q": "What characteristic of each pixel promotes image quality and uniformity?",
+    "a": "each pixel uses the same pathway to output its signal"
+  },
+  {
+    "id": "bf15ea79-73c1-ce4d-2291-b5843f6faf9e",
+    "document": "e66fe35d-3c05-a98e-a973-af5c1df0eb97",
+    "q": "How is this process different from the process in CMOS sensors?",
+    "a": "this process is also more power-intensive than the process in CMOS sensors"
+  },
+  {
+    "id": "68000868-1962-6656-7167-4eb9335d0c5c",
+    "document": "e66fe35d-3c05-a98e-a973-af5c1df0eb97",
+    "q": "How does each pixel contribute to image quality and uniformity?",
+    "a": "each pixel uses the same pathway to output its signal"
+  },
+  {
+    "id": "93ecb4b8-d406-19a1-e120-91dd39c0e271",
+    "document": "e66fe35d-3c05-a98e-a973-af5c1df0eb97",
+    "q": "What type of sensor had Canon's first professional digital camera, the EOS-1D?",
+    "a": "a 4.15MP CCD sensor"
+  },
+  {
+    "id": "a16e9916-9e74-550e-da13-3d31f727ec61",
+    "document": "eb959ed4-a19a-2e35-d80f-c9272bc652aa",
+    "q": "What type of sensor enables charge processing at the site?",
+    "a": "a CMOS sensor contains multiple transistors at each photosite, enabling the charge to be processed directly at the site"
+  },
+  {
+    "id": "05126da9-91f4-9e2e-1b51-1574e2b827b3",
+    "document": "eb959ed4-a19a-2e35-d80f-c9272bc652aa",
+    "q": "How does This impact the camera?",
+    "a": "This has several implications"
+  },
+  {
+    "id": "9194a805-107b-1c63-ed71-fc7857c8d362",
+    "document": "e6d4a4b6-e2ac-2013-8940-ea3d7f404ff6",
+    "q": "What can They read?",
+    "a": "electrical charges"
+  },
+  {
+    "id": "4bfe22e2-d6bb-d439-5604-cf25ed319851",
+    "document": "e6d4a4b6-e2ac-2013-8940-ea3d7f404ff6",
+    "q": "Which types of sensors is which more energy efficient?",
+    "a": "CMOS sensors require less power"
+  },
+  {
+    "id": "371244f3-9cc4-3745-3cd0-c52400e0e485",
+    "document": "e6d4a4b6-e2ac-2013-8940-ea3d7f404ff6",
+    "q": "What additional functions can CMOS sensors incorporate?",
+    "a": "additional functions such as noise reduction and image processing"
+  },
+  {
+    "id": "70a6ba78-ecb0-11e4-51a7-e48fac1e0574",
+    "document": "e6d4a4b6-e2ac-2013-8940-ea3d7f404ff6",
+    "q": "What benefits does the incorporation of additional functions on CMOS sensors provide?",
+    "a": "CMOS sensors share the same basic structure as computer microprocessors, which allows for mass production at a lower cost while incorporating additional functions such as noise reduction and image processing right on the sensor."
+  },
+  {
+    "id": "4a71ec2d-c030-1b03-2125-38c2de6adce0",
+    "document": "e6d4a4b6-e2ac-2013-8940-ea3d7f404ff6",
+    "q": "How do CMOS sensors compare to other types of sensors in terms of power consumption?",
+    "a": "CMOS sensors require less power"
+  },
+  {
+    "id": "b89443d5-6118-0efd-a240-f10bfe2a0daa",
+    "document": "e6d4a4b6-e2ac-2013-8940-ea3d7f404ff6",
+    "q": "What's more, what is crucial for shooting high-speed sequences?",
+    "a": "they can read off electrical charges at a much faster rate"
+  },
+  {
+    "id": "9755a486-856d-8ae0-7591-b27d820377ca",
+    "document": "e6d4a4b6-e2ac-2013-8940-ea3d7f404ff6",
+    "q": "What's more, what can CMOS sensors do?",
+    "a": "they can read off electrical charges at a much faster rate"
+  },
+  {
+    "id": "d6fc2bc8-ff60-e18b-a5c5-be721d708399",
+    "document": "e6d4a4b6-e2ac-2013-8940-ea3d7f404ff6",
+    "q": "What does the same basic structure of CMOS sensors and computer microprocessors allow for?",
+    "a": "mass production at a lower cost while incorporating additional functions such as noise reduction and image processing right on the sensor"
+  },
+  {
+    "id": "12826bae-d6f3-5839-1e6b-fb0bd18a58ce",
+    "document": "723061e0-0246-a2f7-c1e8-2e3b91777a0f",
+    "q": "What type of sensor do the PowerShot camera ranges use?",
+    "a": "CMOS sensors"
+  },
+  {
+    "id": "8c4b791e-e259-86e3-b178-5c529ac1acf7",
+    "document": "723061e0-0246-a2f7-c1e8-2e3b91777a0f",
+    "q": "What type of sensors are found in all of Canon's mirrorless EOS R System cameras?",
+    "a": "CMOS sensors"
+  },
+  {
+    "id": "d98a90c9-ab12-99b1-e9bb-75e7f57b8e70",
+    "document": "e603a0da-dd5d-939a-7105-9ce5b09f8ecc",
+    "q": "What features are marked A and B in each photo receptor in the sensor?",
+    "a": "two separate photodiodes (marked A and B)"
+  },
+  {
+    "id": "15bac82e-3b45-f8eb-f5ff-dca367050eaf",
+    "document": "e603a0da-dd5d-939a-7105-9ce5b09f8ecc",
+    "q": "How is whether that point is in sharp focus determined?",
+    "a": "comparing the signals from the two determines whether that point is in sharp focus"
+  },
+  {
+    "id": "de9d0e0a-bea6-f00d-6486-838ff57430ab",
+    "document": "e603a0da-dd5d-939a-7105-9ce5b09f8ecc",
+    "q": "What purpose is served by the output from the photo receptor?",
+    "a": "the output (C) from the photo receptor is used for imaging"
+  },
+  {
+    "id": "4bedf42a-27d2-6ab2-47cb-47df372094d3",
+    "document": "e603a0da-dd5d-939a-7105-9ce5b09f8ecc",
+    "q": "What are the two separate components that each photo receptor in the sensor has?",
+    "a": "two separate photodiodes (marked A and B)"
+  },
+  {
+    "id": "8d95662d-664c-c5a1-003f-d87d64f1fef1",
+    "document": "e603a0da-dd5d-939a-7105-9ce5b09f8ecc",
+    "q": "What happens when the signals from the two are compared?",
+    "a": "comparing the signals from the two determines whether that point is in sharp focus"
+  },
+  {
+    "id": "0a2ce0cf-7c80-ea70-1aae-c3f0ba057566",
+    "document": "e603a0da-dd5d-939a-7105-9ce5b09f8ecc",
+    "q": "What is used for imaging?",
+    "a": "the output (C) from the photo receptor is used for imaging"
+  },
+  {
+    "id": "394c64a8-962a-82f6-6906-ed708776d469",
+    "document": "dcaab255-348e-cebd-03fc-cb0da93c553b",
+    "q": "What features a new Dual Pixel CMOS AF sensor arrangement with photodiodes sensitive to phase difference along both the vertical and horizontal axes of the sensor?",
+    "a": "The EOS R1 features a new Dual Pixel CMOS AF sensor arrangement with photodiodes sensitive to phase difference along both the vertical and horizontal axes of the sensor"
+  },
+  {
+    "id": "3d832399-5419-4567-250b-1c1cbb3465c4",
+    "document": "dcaab255-348e-cebd-03fc-cb0da93c553b",
+    "q": "What does the presence of These Cross Type AF points enhance?",
+    "a": "These Cross Type AF points enable the camera's Dual Pixel Intelligent AF to detect both horizontal and vertical detail, enhancing AF acquisition and tracking performance"
+  },
+  {
+    "id": "76296faa-83e3-b7fe-8d34-571e6e6dfb65",
+    "document": "dcaab255-348e-cebd-03fc-cb0da93c553b",
+    "q": "How does The EOS R1 feature the Dual Pixel CMOS AF sensor arrangement?",
+    "a": "The EOS R1 features a new Dual Pixel CMOS AF sensor arrangement with photodiodes sensitive to phase difference along both the vertical and horizontal axes of the sensor"
+  },
+  {
+    "id": "f1be8322-98bd-22d9-8a79-dc27d9d3f0bb",
+    "document": "dcaab255-348e-cebd-03fc-cb0da93c553b",
+    "q": "What do These Cross Type AF points enable the camera to detect?",
+    "a": "These Cross Type AF points enable the camera's Dual Pixel Intelligent AF to detect both horizontal and vertical detail, enhancing AF acquisition and tracking performance"
+  },
+  {
+    "id": "63838d1a-9159-d36c-93bf-ec617f6088ac",
+    "document": "ce67a736-c1cb-a518-6244-b0534d831192",
+    "q": "What innovation enables the use of pixels for both imaging and autofocus?",
+    "a": "Dual Pixel CMOS AF technology, which enables each pixel on the sensor to be used for both imaging and autofocus"
+  },
+  {
+    "id": "ad1beba0-1a48-d6f4-7151-b45fd8202ccc",
+    "document": "ce67a736-c1cb-a518-6244-b0534d831192",
+    "q": "What type of technology enables the use of pixels for both imaging and autofocus?",
+    "a": "Dual Pixel CMOS AF technology, which enables each pixel on the sensor to be used for both imaging and autofocus"
+  },
+  {
+    "id": "cc697ef4-5f8a-b885-63a2-d24222f92579",
+    "document": "ce67a736-c1cb-a518-6244-b0534d831192",
+    "q": "What is the outcome of using each pixel on the sensor?",
+    "a": "each pixel on the sensor is used for both imaging and autofocus, resulting in faster and more accurate AF performance"
+  },
+  {
+    "id": "945b74c6-9191-b2d7-661d-20fbb8d5a088",
+    "document": "ce67a736-c1cb-a518-6244-b0534d831192",
+    "q": "How has CMOS sensor technology advanced?",
+    "a": "Developments in CMOS sensors CMOS sensor technology has continued to evolve"
+  },
+  {
+    "id": "8d7d0718-b089-6bcb-bd5b-7ee17cee82ad",
+    "document": "ce67a736-c1cb-a518-6244-b0534d831192",
+    "q": "What happens as a result of each pixel on the sensor?",
+    "a": "each pixel on the sensor is used for both imaging and autofocus, resulting in faster and more accurate AF performance"
+  },
+  {
+    "id": "d23c4598-ac65-fc8c-73ba-6ea5c85f9245",
+    "document": "ce67a736-c1cb-a518-6244-b0534d831192",
+    "q": "How does Canon's technology enable the use of pixels for both imaging and autofocus?",
+    "a": "Dual Pixel CMOS AF technology, which enables each pixel on the sensor to be used for both imaging and autofocus"
+  },
+  {
+    "id": "7780faf6-3ad6-3cac-56b0-2e2ce13a8979",
+    "document": "7ef368c2-633a-2a6c-1c8a-5a07620e7b41",
+    "q": "What was introduced in 2020?",
+    "a": "An enhanced version of the system was introduced in 2020: Dual Pixel CMOS AF II"
+  },
+  {
+    "id": "f3cc76c0-0451-745a-90ae-931439465d45",
+    "document": "7ef368c2-633a-2a6c-1c8a-5a07620e7b41",
+    "q": "What utilizes Deep Learning AI?",
+    "a": "Canon\u2019s subject detection and tracking system utilising Deep Learning AI"
+  },
+  {
+    "id": "42540646-2fb7-d65a-59f6-bfd6326f8c01",
+    "document": "7ef368c2-633a-2a6c-1c8a-5a07620e7b41",
+    "q": "What does This incorporate?",
+    "a": "EOS intelligent Tracking and Recognition Autofocus (EOS iTR AF X), Canon\u2019s subject detection and tracking system utilising Deep Learning AI"
+  },
+  {
+    "id": "84e1f483-559e-fa36-7544-584dd2105758",
+    "document": "7ef368c2-633a-2a6c-1c8a-5a07620e7b41",
+    "q": "What feature was introduced in 2020?",
+    "a": "An enhanced version of the system was introduced in 2020: Dual Pixel CMOS AF II"
+  },
+  {
+    "id": "fe6a3c1e-fe4b-e244-cee1-07961c07deba",
+    "document": "7ef368c2-633a-2a6c-1c8a-5a07620e7b41",
+    "q": "What system utilizes Deep Learning AI?",
+    "a": "Canon\u2019s subject detection and tracking system utilising Deep Learning AI"
+  },
+  {
+    "id": "a87404db-b366-1e00-3e4c-24cc1e5d4b2a",
+    "document": "7ef368c2-633a-2a6c-1c8a-5a07620e7b41",
+    "q": "How does This function?",
+    "a": "This incorporates EOS intelligent Tracking and Recognition Autofocus (EOS iTR AF X), Canon\u2019s subject detection and tracking system utilising Deep Learning AI"
+  },
+  {
+    "id": "355a2067-0842-4021-39bb-96c93c2aea72",
+    "document": "8766f657-c18d-0696-7be1-488a2c96ab9e",
+    "q": "What is the result of using each pixel on the sensor for both imaging and autofocus?",
+    "a": "faster and more accurate AF performance"
+  },
+  {
+    "id": "2a1a0abb-f16e-c261-85f9-7e0f577859cf",
+    "document": "8766f657-c18d-0696-7be1-488a2c96ab9e",
+    "q": "What innovation developed by Canon enables the use of each pixel on the sensor for both imaging and autofocus?",
+    "a": "An innovation developed by Canon is Dual Pixel CMOS AF technology, which enables each pixel on the sensor to be used for both imaging and autofocus"
+  },
+  {
+    "id": "34dc38a1-5297-0aa3-9ebc-c10084dcaa5b",
+    "document": "8766f657-c18d-0696-7be1-488a2c96ab9e",
+    "q": "What was introduced in 2020?",
+    "a": "An enhanced version of the system was introduced in 2020"
+  },
+  {
+    "id": "6ce4c22b-1793-519e-344e-ec27493462cb",
+    "document": "8766f657-c18d-0696-7be1-488a2c96ab9e",
+    "q": "What does This include?",
+    "a": "This incorporates EOS intelligent Tracking and Recognition Autofocus (EOS iTR AF X), Canon\u2019s subject detection and tracking system utilising Deep Learning AI."
+  },
+  {
+    "id": "1916f40f-e155-2f1b-59c7-996c1f91295b",
+    "document": "8766f657-c18d-0696-7be1-488a2c96ab9e",
+    "q": "What benefits are realized from each pixel on the sensor being used for imaging and autofocus?",
+    "a": "faster and more accurate AF performance"
+  },
+  {
+    "id": "6461b6db-edaa-4a80-9848-6ae9d0e14479",
+    "document": "8766f657-c18d-0696-7be1-488a2c96ab9e",
+    "q": "What allows for the use of each pixel on the sensor for both imaging and autofocus?",
+    "a": "An innovation developed by Canon is Dual Pixel CMOS AF technology, which enables each pixel on the sensor to be used for both imaging and autofocus"
+  },
+  {
+    "id": "e3e487b3-2736-9f39-6714-81f4e63ddd31",
+    "document": "8766f657-c18d-0696-7be1-488a2c96ab9e",
+    "q": "What type of system was introduced in 2020?",
+    "a": "An enhanced version of the system was introduced in 2020"
+  },
+  {
+    "id": "c6f06c3f-31d4-12ee-715a-16e60a0d3cb6",
+    "document": "8766f657-c18d-0696-7be1-488a2c96ab9e",
+    "q": "What incorporates EOS intelligent Tracking, tracking system utilising Deep Learning AI, Recognition Autofocus (EOS iTR AF X), Canon\u2019s subject detection?",
+    "a": "This incorporates EOS intelligent Tracking and Recognition Autofocus (EOS iTR AF X), Canon\u2019s subject detection and tracking system utilising Deep Learning AI."
+  },
+  {
+    "id": "809244b2-d431-cc22-ea0f-dc592c3797a5",
+    "document": "96949dda-1c42-ed59-497c-3b17c55d0af9",
+    "q": "What feature enabled the camera to track actions commonly seen in certain sports and automatically shift the focus to the area where the action is taking place?",
+    "a": "Action Priority AF, which enables the camera to track actions commonly seen in certain sports and automatically shift the focus to the area where the action is taking place"
+  },
+  {
+    "id": "8f67dec7-3e0f-5e26-f7ee-d864af9801a0",
+    "document": "96949dda-1c42-ed59-497c-3b17c55d0af9",
+    "q": "What features has Dual Pixel Intelligent AF enabled the introduction of?",
+    "a": "Dual Pixel Intelligent AF has further refined the detection and tracking capabilities, and enabled the introduction of features such as Action Priority AF"
+  },
+  {
+    "id": "991b6b37-a1bf-a40b-4577-294217f0f285",
+    "document": "96949dda-1c42-ed59-497c-3b17c55d0af9",
+    "q": "How did the Dual Pixel Intelligent AF impact the camera's abilities?",
+    "a": "the Dual Pixel Intelligent AF has further refined the detection and tracking capabilities"
+  },
+  {
+    "id": "635fd35f-a9be-269b-c98a-257036817102",
+    "document": "96949dda-1c42-ed59-497c-3b17c55d0af9",
+    "q": "In what mode can the camera automatically shift the focus to the area where the action is taking place?",
+    "a": "Action Priority AF mode"
+  },
+  {
+    "id": "4ba68116-d505-28c1-3c7f-23889c3cb054",
+    "document": "713444c6-c219-0910-11d0-b3f998e5bc21",
+    "q": "What does the Cross Type AF system allow the sensor to do?",
+    "a": "the autofocus is advanced still further with Cross Type AF, enabling the sensor to detect phase difference not just vertically, like other AF systems, but also horizontally at the same time"
+  },
+  {
+    "id": "7c785be2-79c3-c321-1501-84f376872d4a",
+    "document": "713444c6-c219-0910-11d0-b3f998e5bc21",
+    "q": "What results from this enhanced sensitivity?",
+    "a": "This enhanced sensitivity results in increased focusing accuracy and speed in low-light and low-contrast situations, and even more stable AF performance in continuous shooting mode"
+  },
+  {
+    "id": "6cc28912-a43c-a9fd-6b03-67728b84731b",
+    "document": "713444c6-c219-0910-11d0-b3f998e5bc21",
+    "q": "How is the autofocus enhanced in the EOS R1?",
+    "a": "the autofocus is advanced still further with Cross Type AF"
+  },
+  {
+    "id": "e9b35bb7-9535-93e8-08b4-90b18ec2048c",
+    "document": "713444c6-c219-0910-11d0-b3f998e5bc21",
+    "q": "What follows from this enhanced sensitivity?",
+    "a": "This enhanced sensitivity results in increased focusing accuracy and speed in low-light and low-contrast situations, and even more stable AF performance in continuous shooting mode"
+  },
+  {
+    "id": "e5f43b30-d2a4-5003-1421-100e12725ac6",
+    "document": "b7cf26bd-453b-c097-4dfe-7b637c377d48",
+    "q": "What component in the Canon EOS R3 is designed for capturing high-speed and high-resolution imagery?",
+    "a": "The stacked, back-illuminated CMOS sensor in the Canon EOS R3"
+  },
+  {
+    "id": "845bbf1d-60e4-8098-f3b5-81e8fe65638f",
+    "document": "b7cf26bd-453b-c097-4dfe-7b637c377d48",
+    "q": "What in the Canon EOS R3 is designed for capturing high-speed and high-resolution imagery?",
+    "a": "The stacked, back-illuminated CMOS sensor in the Canon EOS R3"
+  },
+  {
+    "id": "e79c6eb2-9c55-7723-4181-887a5371bd77",
+    "document": "660dd1b1-2c05-81cd-0479-4a9cc40eb8bd",
+    "q": "What feature of the EOS C80 and EOS C400 minimises distortion?",
+    "a": "The fast readout of the Back-Side Illuminated (BSI) sensor in the EOS C80, EOS C400 (shown here) minimises distortion"
+  },
+  {
+    "id": "66e317ee-e0dc-5032-7dac-619c45cfa4f8",
+    "document": "660dd1b1-2c05-81cd-0479-4a9cc40eb8bd",
+    "q": "What happens to distortion when the fast readout of the Back-Side Illuminated (BSI) sensor in the EOS C80 and EOS C400 is used for filming?",
+    "a": "distortion is minimised when filming moving objects or when the camera is panned quickly"
+  },
+  {
+    "id": "31502b28-bcca-fa8f-7893-8804e62c3b67",
+    "document": "4751480f-6d79-fdb4-3415-1c647ed6590c",
+    "q": "What is another benefit of the stacked structure?",
+    "a": "the stacked structure allows faster data readout, contributing to the camera's high-speed performance"
+  },
+  {
+    "id": "5ab4ec65-6da4-78a0-5042-96926b5c2e86",
+    "document": "4751480f-6d79-fdb4-3415-1c647ed6590c",
+    "q": "What does this design improve?",
+    "a": "This design improves light collection efficiency"
+  },
+  {
+    "id": "82eea5fc-2d77-114c-5f8c-9ee6ebe41576",
+    "document": "4751480f-6d79-fdb4-3415-1c647ed6590c",
+    "q": "What benefits are resulting from This design?",
+    "a": "This design places the photodiodes above the transistor layer to improve light collection efficiency, resulting in less image noise and better image quality"
+  },
+  {
+    "id": "67113c72-121d-68fd-f84f-f88e2f7b7f56",
+    "document": "4751480f-6d79-fdb4-3415-1c647ed6590c",
+    "q": "What advantage does the stacked structure provide to the camera's performance?",
+    "a": "the stacked structure allows faster data readout, contributing to the camera's high-speed performance"
+  },
+  {
+    "id": "5a7f6a35-5fd5-3436-dcee-2b37cc6a73db",
+    "document": "4751480f-6d79-fdb4-3415-1c647ed6590c",
+    "q": "How does This design contribute to image quality?",
+    "a": "This design places the photodiodes above the transistor layer to improve light collection efficiency, resulting in less image noise and better image quality"
+  },
+  {
+    "id": "42360dea-a09d-d1bb-2002-a8ec4808d5a7",
+    "document": "4751480f-6d79-fdb4-3415-1c647ed6590c",
+    "q": "What is the result of improved light collection efficiency?",
+    "a": "less image noise and better image quality"
+  },
+  {
+    "id": "cc2b054c-2d77-1564-5200-bea53c918ea0",
+    "document": "4751480f-6d79-fdb4-3415-1c647ed6590c",
+    "q": "How does the stacked structure contribute to the camera's performance?",
+    "a": "the stacked structure allows faster data readout"
+  },
+  {
+    "id": "a90780ea-6cd0-492b-2507-b22945c7e3da",
+    "document": "530904d0-0886-e426-ca6b-9d28338326b0",
+    "q": "What boosts the volume of data that the camera is capable of processing?",
+    "a": "the DIGIC Accelerator boosts the volume of data that the camera is capable of processing"
+  },
+  {
+    "id": "7f8b0ac5-b71f-f448-29a3-105980a2fb30",
+    "document": "530904d0-0886-e426-ca6b-9d28338326b0",
+    "q": "What feature enhances the camera's ability to process data?",
+    "a": "the DIGIC Accelerator boosts the volume of data that the camera is capable of processing"
+  },
+  {
+    "id": "05f1c022-dc78-7602-dea2-1da3742c31b3",
+    "document": "530904d0-0886-e426-ca6b-9d28338326b0",
+    "q": "What benefits does the DIGIC Accelerator provide to the camera?",
+    "a": "a host of features, including faster electronic shutter speeds, simultaneous recording of stills, a significant reduction in rolling shutter distortion compared to earlier cameras"
+  },
+  {
+    "id": "bcf4472b-2dff-92ea-cf2c-0bb401bccc43",
+    "document": "a8e552e3-28fb-c408-7b5d-8cc3ac42f371",
+    "q": "What benefits do the 6K full-frame Back-Side Illuminated (BSI) CMOS sensors provide?",
+    "a": "6K full-frame Back-Side Illuminated (BSI) CMOS sensors, which provide improved low-light performance compared to front-illuminated sensors"
+  },
+  {
+    "id": "ba4abdc1-6632-834e-f259-5644ec26906c",
+    "document": "a8e552e3-28fb-c408-7b5d-8cc3ac42f371",
+    "q": "How does the BSI sensor\u2019s fast readout speeds affect rolling shutter distortion?",
+    "a": "the BSI sensor\u2019s fast readout speeds minimise rolling shutter distortion"
+  },
+  {
+    "id": "32ab6fad-e033-b7d6-a468-d8e767711fb3",
+    "document": "a8e552e3-28fb-c408-7b5d-8cc3ac42f371",
+    "q": "What type of sensors are used in the EOS C80 and EOS C400 cameras?",
+    "a": "the EOS C80 and EOS C400 incorporate 6K full-frame Back-Side Illuminated (BSI) CMOS sensors"
+  },
+  {
+    "id": "f439ebd6-ce6c-6f05-6ecb-6016b9e3493b",
+    "document": "a8e552e3-28fb-c408-7b5d-8cc3ac42f371",
+    "q": "How does the fast readout speed of the BSI sensor impact rolling shutter distortion?",
+    "a": "the BSI sensor\u2019s fast readout speeds minimise rolling shutter distortion"
+  },
+  {
+    "id": "837a1743-2ce8-9e5f-854e-3befafd85f65",
+    "document": "3bee73f4-5ffe-2223-ac45-7097865c8173",
+    "q": "What can the Canon ME20F-SH multi-purpose camera do in almost complete darkness?",
+    "a": "The Canon ME20F-SH multi-purpose camera can see and shoot in almost complete darkness."
+  },
+  {
+    "id": "f6e85a0b-68d1-2358-7203-7bc1d7641fdd",
+    "document": "3bee73f4-5ffe-2223-ac45-7097865c8173",
+    "q": "What is the capability of the Canon ME20F-SH multi-purpose camera in very low-light environments?",
+    "a": "The Canon ME20F-SH multi-purpose camera can see and shoot in almost complete darkness."
+  },
+  {
+    "id": "6a3f6dc7-9e63-0f45-fc5b-fe7d2afcd8ec",
+    "document": "518b847e-5ba0-69f1-c401-13ee7c74b59c",
+    "q": "What is the purpose of the camera's specially developed full-frame CMOS sensor?",
+    "a": "The camera's specially developed full-frame CMOS sensor is designed specifically for low light video capture"
+  },
+  {
+    "id": "30bb8280-39ef-7dc9-c2f1-dc1e581f1683",
+    "document": "518b847e-5ba0-69f1-c401-13ee7c74b59c",
+    "q": "What feature of the camera's design helps to deliver ultra-low-light images with low noise?",
+    "a": "it maximises light-gathering capabilities to deliver ultra-low-light images with low noise"
+  },
+  {
+    "id": "836c5206-d32d-7b9d-c0e8-542ab4977619",
+    "document": "518b847e-5ba0-69f1-c401-13ee7c74b59c",
+    "q": "What are the benefits of the camera's specially developed full-frame CMOS sensor?",
+    "a": "The camera's specially developed full-frame CMOS sensor is designed specifically for low light video capture"
+  },
+  {
+    "id": "4f20a2d2-ec06-ae51-b735-732f6cf963b6",
+    "document": "518b847e-5ba0-69f1-c401-13ee7c74b59c",
+    "q": "What maximises light-gathering capabilities?",
+    "a": "it maximises light-gathering capabilities to deliver ultra-low-light images with low noise"
+  },
+  {
+    "id": "a19474c9-857e-1780-44c0-3d84c04cdbd0",
+    "document": "a75bb69d-2d39-d03d-a314-66e031fb2e0c",
+    "q": "What is the status of the research and development in Canon's CMOS sensor?",
+    "a": "Canon's CMOS sensor research and development is ongoing"
+  },
+  {
+    "id": "a410b422-41e2-5a64-ac9d-dd6c6e215db2",
+    "document": "a75bb69d-2d39-d03d-a314-66e031fb2e0c",
+    "q": "What type of technology is being developed through Canon's research and development?",
+    "a": "Canon's CMOS sensor research and development is ongoing"
+  },
+  {
+    "id": "adb64220-f8e7-0e75-5611-bbccb1c62795",
+    "document": "a75bb69d-2d39-d03d-a314-66e031fb2e0c",
+    "q": "How do larger photo receptors help a camera?",
+    "a": "Larger photo receptors are able to capture more light, in this case achieving a sensitivity equivalent to ISO 4 million, enabling a camera to capture vivid color images of very dark environments."
+  },
+  {
+    "id": "243cdcf9-99ef-489e-3e23-85b1e6ac2635",
+    "document": "a75bb69d-2d39-d03d-a314-66e031fb2e0c",
+    "q": "What feature of a camera enables it to capture vivid color images of very dark environments?",
+    "a": "Larger photo receptors are able to capture more light, in this case achieving a sensitivity equivalent to ISO 4 million, enabling a camera to capture vivid color images of very dark environments."
+  },
+  {
+    "id": "86805cc2-bdd9-0e24-5e87-bd2c128dbb6d",
+    "document": "a75bb69d-2d39-d03d-a314-66e031fb2e0c",
+    "q": "What is the status of Canon's CMOS sensor research and development?",
+    "a": "Canon's CMOS sensor research and development is ongoing"
+  },
+  {
+    "id": "ae16c013-1b3a-448c-7e54-df13ce50dc8d",
+    "document": "a75bb69d-2d39-d03d-a314-66e031fb2e0c",
+    "q": "What is a result of Canon's CMOS sensor research and development?",
+    "a": "One result of this is an ultra high sensitivity 35mm full-frame CMOS sensor"
+  },
+  {
+    "id": "d6752a50-a2d7-16b9-2272-cc87d6a0962a",
+    "document": "a75bb69d-2d39-d03d-a314-66e031fb2e0c",
+    "q": "What is the result of having larger photo receptors?",
+    "a": "larger photo receptors are able to capture more light"
+  },
+  {
+    "id": "0cdb2d0e-22f8-2fc4-af21-017c5cd01b46",
+    "document": "a75bb69d-2d39-d03d-a314-66e031fb2e0c",
+    "q": "What type of images can a camera with this technology capture?",
+    "a": "vivid colour images"
+  },
+  {
+    "id": "d2cb24aa-81ba-a203-5ffc-81a704ca8a1a",
+    "document": "1ad1661d-5d13-46ca-9597-c4cc58e31fa4",
+    "q": "What technology does Canon use to reduce the photosite size?",
+    "a": "Canon has also developed an ultra high pixel count sensor, using advanced miniaturisation techniques to reduce the photosite size."
+  },
+  {
+    "id": "e6bda983-b98e-1a96-ac90-3ffb1a54e8f2",
+    "document": "1ad1661d-5d13-46ca-9597-c4cc58e31fa4",
+    "q": "What are some applications of the technology developed by Canon?",
+    "a": "This has great potential for applications in surveillance, astronomical observation and medical imaging."
+  },
+  {
+    "id": "a4bf67f6-825f-ef8f-d8f0-7c68b2d0dc0e",
+    "document": "1ad1661d-5d13-46ca-9597-c4cc58e31fa4",
+    "q": "What type of image capture does This facilitate?",
+    "a": "very high resolution image capture"
+  },
+  {
+    "id": "2c24b7d2-b1e1-9280-8338-497d46dc834e",
+    "document": "1ad1661d-5d13-46ca-9597-c4cc58e31fa4",
+    "q": "How does the resolution of the image captured using this technology compare to 4K video?",
+    "a": "approximately 30 times higher"
+  },
+  {
+    "id": "e74b7e85-cc70-184d-4f28-7dce64412e4f",
+    "document": "1ad1661d-5d13-46ca-9597-c4cc58e31fa4",
+    "q": "What are some potential applications of this technology?",
+    "a": "surveillance, astronomical observation and medical imaging"
+  },
+  {
+    "id": "57a2ec1d-606e-e7a1-39b8-d13240be2dd8",
+    "document": "1ad1661d-5d13-46ca-9597-c4cc58e31fa4",
+    "q": "How is Canon able to reduce the photosite size?",
+    "a": "Canon has also developed an ultra high pixel count sensor, using advanced miniaturisation techniques to reduce the photosite size."
+  },
+  {
+    "id": "43e99b42-a387-0935-1f48-482f79c18a2d",
+    "document": "278f3064-0ce2-c65e-d5a9-74353d121555",
+    "q": "What issue does the sequential readout of CMOS sensor data cause for fast-moving subjects?",
+    "a": "This results in issues such as \"rolling shutter\" distortion of fast-moving subjects that have changed their position during the time the frame is being read out."
+  },
+  {
+    "id": "8b69c50f-2c14-17d7-8734-099337d5bdbd",
+    "document": "278f3064-0ce2-c65e-d5a9-74353d121555",
+    "q": "How is the data from the CMOS sensors typically read out?",
+    "a": "their data is read out sequentially"
+  },
+  {
+    "id": "9ea15268-7ca1-c98c-d8e5-2759a00933c4",
+    "document": "278f3064-0ce2-c65e-d5a9-74353d121555",
+    "q": "What effect does the advanced back-illuminated stacked CMOS sensor design have on this issue?",
+    "a": "the advanced back-illuminated stacked CMOS sensor design used in cameras such as the EOS R1, EOS R5 Mark II enables much faster readout speeds, greatly alleviating this issue"
+  },
+  {
+    "id": "e65792e4-d43e-32dc-9bf2-98b1e4e7d8b9",
+    "document": "278f3064-0ce2-c65e-d5a9-74353d121555",
+    "q": "How do current CMOS sensors read out their data?",
+    "a": "their data is read out sequentially rather than all at once"
+  },
+  {
+    "id": "c40e8c8d-0edf-69dc-4d57-1992ac10995d",
+    "document": "278f3064-0ce2-c65e-d5a9-74353d121555",
+    "q": "What results from reading out the data sequentially?",
+    "a": "issues such as rolling shutter distortion of fast-moving subjects"
+  },
+  {
+    "id": "51789f9b-2713-2a16-38fe-184d400c1d88",
+    "document": "278f3064-0ce2-c65e-d5a9-74353d121555",
+    "q": "How can the advanced back-illuminated stacked CMOS sensor design alleviate this issue?",
+    "a": "the advanced back-illuminated stacked CMOS sensor design used in cameras such as the EOS R1, EOS R5 Mark II enables much faster readout speeds, greatly alleviating this issue"
+  },
+  {
+    "id": "f0cfc956-8674-fe38-fd09-3d8603725711",
+    "document": "4304e48d-f7de-5262-f492-4c83fded37dd",
+    "q": "What subjects have changed their position during the time the frame is being read out?",
+    "a": "fast-moving subjects that have changed their position during the time the frame is being read out"
+  },
+  {
+    "id": "ace4ea51-003a-9c77-a34d-73d6cd8aa0ca",
+    "document": "4304e48d-f7de-5262-f492-4c83fded37dd",
+    "q": "What design in cameras such as the EOS R1 and EOS R5 Mark II enables much faster readout speeds?",
+    "a": "the advanced back-illuminated stacked CMOS sensor design used in cameras such as the EOS R1, EOS R5 Mark II"
+  },
+  {
+    "id": "d1622f78-7598-c0a2-1168-4a1fbfa55ac6",
+    "document": "4304e48d-f7de-5262-f492-4c83fded37dd",
+    "q": "What has occurred to fast-moving subjects during the time the frame is being read out?",
+    "a": "fast-moving subjects that have changed their position during the time the frame is being read out"
+  },
+  {
+    "id": "765e4397-65a7-7200-a74d-03e10b83acc9",
+    "document": "4304e48d-f7de-5262-f492-4c83fded37dd",
+    "q": "What is the effect of the advanced back-illuminated stacked CMOS sensor design on rolling shutter distortion in the EOS R1?",
+    "a": "it is almost completely eliminated"
+  },
+  {
+    "id": "a391c212-c28a-0470-c714-df3b03441c64",
+    "document": "681b14e5-b4a8-29e7-ef14-2f34d71eaabd",
+    "q": "What enables readout of the entire sensor?",
+    "a": "Canon is actively investigating other solutions such as 'global shutter' technology, which enables readout of the entire sensor in one go"
+  },
+  {
+    "id": "d7b237f0-412b-0372-354b-eb34097626ac",
+    "document": "681b14e5-b4a8-29e7-ef14-2f34d71eaabd",
+    "q": "What is a characteristic of this technology?",
+    "a": "this technology is very complex"
+  },
+  {
+    "id": "76cde2ba-e055-4288-2ca1-3c4f15617078",
+    "document": "681b14e5-b4a8-29e7-ef14-2f34d71eaabd",
+    "q": "What is the outcome of employing this technology?",
+    "a": "this technology is very complex, adds both image noise and cost, and can't yet produce very high-quality outputs"
+  },
+  {
+    "id": "9613a682-6596-1ddf-28d4-012494d51795",
+    "document": "681b14e5-b4a8-29e7-ef14-2f34d71eaabd",
+    "q": "What technology is Canon actively investigating to improve sensor readout?",
+    "a": "other solutions such as 'global shutter' technology, which enables readout of the entire sensor in one go"
+  },
+  {
+    "id": "d0f8eaa8-7a15-5882-c173-f0330c87fbb4",
+    "document": "681b14e5-b4a8-29e7-ef14-2f34d71eaabd",
+    "q": "What is this technology compared to other options?",
+    "a": "this technology is very complex"
+  },
+  {
+    "id": "3c792b88-4c5b-f31e-1ff1-a57604d3e206",
+    "document": "681b14e5-b4a8-29e7-ef14-2f34d71eaabd",
+    "q": "What effect does this technology have on image quality?",
+    "a": "this technology adds both image noise and cost"
+  },
+  {
+    "id": "40aa8803-27ef-3b6d-9166-3a1eca841f69",
+    "document": "af0c60a2-62cf-f35c-c1ba-49a8adf9a43d",
+    "q": "What are the two readouts combined into a single HDR image?",
+    "a": "the two readouts are then combined into a single HDR image with astonishing detail and low noise"
+  },
+  {
+    "id": "024499ca-c593-59f2-0e3a-2260c4b44766",
+    "document": "af0c60a2-62cf-f35c-c1ba-49a8adf9a43d",
+    "q": "How is each photosite on the sensor utilized?",
+    "a": "each photosite on the sensor is read"
+  },
+  {
+    "id": "ed932d9a-5752-2f9b-a60c-998663a4bf32",
+    "document": "af0c60a2-62cf-f35c-c1ba-49a8adf9a43d",
+    "q": "What happens to each photosite on the sensor?",
+    "a": "each photosite on the sensor is read"
+  },
+  {
+    "id": "652c2510-2142-f40c-1cb5-986ad4ef91a2",
+    "document": "af0c60a2-62cf-f35c-c1ba-49a8adf9a43d",
+    "q": "What happens to the two readouts?",
+    "a": "the two readouts are then combined into a single HDR image"
+  },
+  {
+    "id": "a5b0cbfa-30f1-c41a-ce91-e72374677e96",
+    "document": "62afc3af-0286-dad7-fa4a-4b11ffaf5838",
+    "q": "What is the DGO?",
+    "a": "The DGO (Dual Gain Output) sensor"
+  },
+  {
+    "id": "6077d609-0be5-7f1c-b842-699e0398eeed",
+    "document": "62afc3af-0286-dad7-fa4a-4b11ffaf5838",
+    "q": "What sensor is used in the Canon EOS C300 Mark III and EOS C70 professional video cameras?",
+    "a": "The DGO (Dual Gain Output) sensor"
+  },
+  {
+    "id": "dc887576-021f-6304-9d63-6ef62256e064",
+    "document": "6f745cf3-7de0-b19a-5179-e6604772888c",
+    "q": "How does Canon\u2019s DGO sensor work?",
+    "a": "Canon\u2019s DGO sensor works by reading each pixel at two different amplification levels, one high and one low, and then combining these two readouts into a single image."
+  },
+  {
+    "id": "6576e6f4-3370-0b4e-c067-bb34a3dfb2c8",
+    "document": "6f745cf3-7de0-b19a-5179-e6604772888c",
+    "q": "What does the high amplification readout focus on in shadow regions?",
+    "a": "The high amplification readout is optimised to capture fine details in shadow regions while reducing noise."
+  },
+  {
+    "id": "3d1ab92c-8c12-b07f-2bc4-13a06b507ff9",
+    "document": "6f745cf3-7de0-b19a-5179-e6604772888c",
+    "q": "What is the purpose of the low amplification readout?",
+    "a": "The low amplification readout is designed to maintain and accurately reproduce information in the highlights."
+  },
+  {
+    "id": "67414700-aaed-4110-b4a5-10e164df4dbc",
+    "document": "6f745cf3-7de0-b19a-5179-e6604772888c",
+    "q": "How does the combination of the two readouts affect the image?",
+    "a": "combining these produces an image that has a broader dynamic range, retains more detail and exhibits less noise compared to images from conventional sensor technologies"
+  },
+  {
+    "id": "cb124cae-10ef-320d-a32f-aa9f59a95f23",
+    "document": "6f745cf3-7de0-b19a-5179-e6604772888c",
+    "q": "What does Canon\u2019s DGO sensor do?",
+    "a": "Canon\u2019s DGO sensor works by reading each pixel at two different amplification levels, one high and one low, and then combining these two readouts into a single image."
+  },
+  {
+    "id": "a48a1010-aaa3-ceda-e022-83efa859e476",
+    "document": "6f745cf3-7de0-b19a-5179-e6604772888c",
+    "q": "What is the outcome of combining the two readouts in terms of image quality?",
+    "a": "Combining these produces an image that has a broader dynamic range, retains more detail and exhibits less noise compared to images from conventional sensor technologies."
+  },
+  {
+    "id": "0904dffa-a8b6-ba47-5a10-c8e8dce132ce",
+    "document": "6f745cf3-7de0-b19a-5179-e6604772888c",
+    "q": "What is optimised in the high amplification readout?",
+    "a": "The high amplification readout is optimised to capture fine details in shadow regions while reducing noise."
+  },
+  {
+    "id": "67607fbb-f93a-7c57-5ed6-ebc50842c9c5",
+    "document": "6f745cf3-7de0-b19a-5179-e6604772888c",
+    "q": "What does the low amplification readout maintain?",
+    "a": "information in the highlights"
+  },
+  {
+    "id": "e9ae965e-d9c9-364c-817b-fa0e4d35dd90",
+    "document": "ef3f3941-7888-c40f-e3e4-d879daaf2061",
+    "q": "How does The DGO technology compare to a conventional sensor in terms of power consumption?",
+    "a": "The DGO technology does not consume any more power than a conventional sensor"
+  },
+  {
+    "id": "43f2633a-6fa0-37ef-b1fe-94bb4b91c91b",
+    "document": "ef3f3941-7888-c40f-e3e4-d879daaf2061",
+    "q": "What type of image does the DGO technology deliver?",
+    "a": "The DGO technology delivers a super-steady image"
+  },
+  {
+    "id": "991e072e-0333-22b6-14a3-8c39a3a33866",
+    "document": "ef3f3941-7888-c40f-e3e4-d879daaf2061",
+    "q": "What benefits does the DGO technology provide?",
+    "a": "The DGO technology delivering fast, reliable autofocus and a super-steady image"
+  },
+  {
+    "id": "9d30064f-edb3-2316-7296-3346e9603967",
+    "document": "ef3f3941-7888-c40f-e3e4-d879daaf2061",
+    "q": "Is the DGO technology's power consumption equal to or less than a conventional sensor?",
+    "a": "The DGO technology does not consume any more power than a conventional sensor"
+  },
+  {
+    "id": "6e776120-9ba4-fc62-a40d-1a25282fe642",
+    "document": "ef3f3941-7888-c40f-e3e4-d879daaf2061",
+    "q": "Is the DGO technology compatible with Canon's Dual Pixel CMOS AF system?",
+    "a": "The DGO technology is also compatible with Canon's Dual Pixel CMOS AF system"
+  },
+  {
+    "id": "940a3dbe-d5e8-f399-2acd-17663dbdd6f7",
+    "document": "ef3f3941-7888-c40f-e3e4-d879daaf2061",
+    "q": "How is the DGO technology impacting autofocus performance?",
+    "a": "The DGO technology delivering fast, reliable autofocus and a super-steady image"
+  },
+  {
+    "id": "8a920a84-9756-7d28-015b-4eb88f69a3ab",
+    "document": "901912ec-01fe-152d-4eb7-23618ba81037",
+    "q": "How is a single electron generated?",
+    "a": "When a single photon strikes either type of sensor, a single electron is generated"
+  },
+  {
+    "id": "48e926ee-820d-1b76-62a5-4d9553281a54",
+    "document": "901912ec-01fe-152d-4eb7-23618ba81037",
+    "q": "How is the charge of a single electron related to an electrical signal?",
+    "a": "the charge of a single electron is too small to be detected as an electrical signal"
+  },
+  {
+    "id": "44e97308-0d35-1476-c19e-365726c7a920",
+    "document": "901912ec-01fe-152d-4eb7-23618ba81037",
+    "q": "How are p-type semiconductors (2) configured in Both a CMOS sensor (A) and a SPAD sensor (B)?",
+    "a": "Both a CMOS sensor (A) and a SPAD sensor (B) include p-type semiconductors (2) and n-type semiconductors (3) but in different configurations"
+  },
+  {
+    "id": "c9c80be7-37d9-29f6-0fce-772324de9710",
+    "document": "901912ec-01fe-152d-4eb7-23618ba81037",
+    "q": "What happens to the charge of a single electron in a CMOS sensor?",
+    "a": "the charge of a single electron is too small to be detected as an electrical signal"
+  },
+  {
+    "id": "03100858-0f2c-fd8d-6fec-95d1e651f0ee",
+    "document": "6b77dfee-f055-7427-c4cb-fd2ec7e7fee0",
+    "q": "What type of sensor amplifies the charge by approximately one million times?",
+    "a": "a SPAD sensor amplifies the charge by approximately one million times using a phenomenon called Avalanche Multiplication"
+  },
+  {
+    "id": "71e2e680-bf76-3690-2398-bc21c13a6dbb",
+    "document": "6b77dfee-f055-7427-c4cb-fd2ec7e7fee0",
+    "q": "What is the charge of a single electron in a CMOS sensor",
+    "a": "is too small to be detected as an electrical signal"
+  },
+  {
+    "id": "d7a3b9f1-2750-4df0-c65f-a9b35b756d93",
+    "document": "6b77dfee-f055-7427-c4cb-fd2ec7e7fee0",
+    "q": "What causes a large current to flow instantaneously?",
+    "a": "Avalanche Multiplication causes a large current to flow instantaneously"
+  },
+  {
+    "id": "d2148b42-5b4a-fede-67e8-990b59ad4127",
+    "document": "6b77dfee-f055-7427-c4cb-fd2ec7e7fee0",
+    "q": "What results from the phenomenon of Avalanche Multiplication?",
+    "a": "Avalanche Multiplication causes a large current to flow instantaneously"
+  },
+  {
+    "id": "c9c80be7-37d9-29f6-0fce-772324de9710",
+    "document": "6b77dfee-f055-7427-c4cb-fd2ec7e7fee0",
+    "q": "What happens to the charge of a single electron in a CMOS sensor?",
+    "a": "the charge of a single electron is too small to be detected as an electrical signal"
+  },
+  {
+    "id": "1f8a9757-95b0-b3dd-1d68-6d87e7cb487d",
+    "document": "6b77dfee-f055-7427-c4cb-fd2ec7e7fee0",
+    "q": "What option enables the sensor to detect a single photon?",
+    "a": "the charge has to be accumulated over a certain period of time, or a SPAD sensor amplifies the charge by approximately one million times using a phenomenon called Avalanche Multiplication, which causes a large current to flow instantaneously, enabling the sensor to detect that a single photon has hit it"
+  },
+  {
+    "id": "1b72e0c3-d2c1-c606-ee25-2f75567e2ebb",
+    "document": "c3ca2260-45eb-eee1-15b9-d2c3770c9147",
+    "q": "How do the Canon SPAD sensor CCD and CMOS sensors measure the light?",
+    "a": "The Canon SPAD sensor CCD and CMOS sensors measure the intensity of light \u2013 in other words, how many photons reach the sensor within a specified time."
+  },
+  {
+    "id": "bb092dcc-b8a9-a545-755c-15e85d93836c",
+    "document": "c3ca2260-45eb-eee1-15b9-d2c3770c9147",
+    "q": "What happens when a photon strikes the sensor?",
+    "a": "When a photon strikes the sensor, it generates an electron, which then triggers a chain reaction or \"avalanche\" of electron production."
+  },
+  {
+    "id": "f054b820-f9bb-084b-9c52-fba495dc4151",
+    "document": "c3ca2260-45eb-eee1-15b9-d2c3770c9147",
+    "q": "What type of sensors work using the 'avalanche' effect in semiconductors?",
+    "a": "SPAD (Single Photon Avalanche Diode) sensors work using the 'avalanche' effect in semiconductors"
+  },
+  {
+    "id": "0d31fd5a-70fc-1992-adbf-fe4322428b01",
+    "document": "c3ca2260-45eb-eee1-15b9-d2c3770c9147",
+    "q": "What causes a large current to flow instantaneously?",
+    "a": "This cascading effect causes a large current to flow instantaneously"
+  },
+  {
+    "id": "14cea224-9e26-7031-12c5-9a48e62f4a0c",
+    "document": "c3ca2260-45eb-eee1-15b9-d2c3770c9147",
+    "q": "How do SPAD sensors measure the intensity of light?",
+    "a": "The Canon SPAD sensor measures the intensity of light \u2013 in other words, how many photons reach the sensor within a specified time."
+  },
+  {
+    "id": "46d7eab4-062f-083b-c8b4-7db2cee12fa2",
+    "document": "c3ca2260-45eb-eee1-15b9-d2c3770c9147",
+    "q": "What causes a large current to flow instantaneously in SPAD sensors?",
+    "a": "This cascading effect causes a large current to flow instantaneously"
+  },
+  {
+    "id": "93a4ccff-5681-432c-69a6-e4f3c0be8a2a",
+    "document": "c3ca2260-45eb-eee1-15b9-d2c3770c9147",
+    "q": "How does a photon interaction with a SPAD sensor result in a signal?",
+    "a": "which is read out as a voltage signal in the form of a train of pulses corresponding to individual photons"
+  },
+  {
+    "id": "1c19c506-feb9-0ca3-8379-19395d395d61",
+    "document": "c3ca2260-45eb-eee1-15b9-d2c3770c9147",
+    "q": "What do SPAD sensors work using?",
+    "a": "the avalanche effect in semiconductors"
+  },
+  {
+    "id": "7deed38c-7f7d-e5d5-f8cd-7a043a65ed68",
+    "document": "e858c32e-51d4-1c1c-5be4-fcfaf19d0b92",
+    "q": "What does This unique light-sensing technology make possible?",
+    "a": "SPAD sensors can achieve incredible low-light performance"
+  },
+  {
+    "id": "490c918e-ff34-77bb-4a67-2e0556bbe9f0",
+    "document": "e858c32e-51d4-1c1c-5be4-fcfaf19d0b92",
+    "q": "How does Canon develop the MS-500 camera?",
+    "a": "Using the outstanding SPAD sensor, Canon has developed the MS-500"
+  },
+  {
+    "id": "87b63ca7-5c57-da11-d26b-b9f2d8f97873",
+    "document": "e858c32e-51d4-1c1c-5be4-fcfaf19d0b92",
+    "q": "How does This unique light-sensing technology contribute to SPAD sensors?",
+    "a": "SPAD sensors can achieve incredible low-light performance"
+  },
+  {
+    "id": "c67a4290-a664-80a4-b0f1-6d1abef4e425",
+    "document": "e858c32e-51d4-1c1c-5be4-fcfaf19d0b92",
+    "q": "What sensor does Canon use to develop the MS-500 camera?",
+    "a": "the outstanding SPAD sensor"
+  },
+  {
+    "id": "8fbaebb9-a154-9308-8d6b-c23455a8efa6",
+    "document": "4aec7a57-e901-363a-8c98-9a01c90f1e4b",
+    "q": "What allows the camera to utilise Canon's extensive range of broadcast lenses?",
+    "a": "the MS-500's bayonet mount for a 2/3-inch broadcast lens enables the camera to utilise Canon's extensive range of broadcast lenses"
+  },
+  {
+    "id": "4b647409-f960-8ac4-b45a-e711f50be955",
+    "document": "4aec7a57-e901-363a-8c98-9a01c90f1e4b",
+    "q": "What is the camera able to do?",
+    "a": "This means the camera is able to resolve subjects several kilometres away, even if they are unlit, making it an invaluable asset for security, surveillance and a broad range of scientific applications."
+  },
+  {
+    "id": "3a0e368d-3e72-2f13-e47d-1154586df47a",
+    "document": "4aec7a57-e901-363a-8c98-9a01c90f1e4b",
+    "q": "What type of optical performance does the camera have?",
+    "a": "excellent super-telephoto optical performance"
+  },
+  {
+    "id": "94cd506f-c0a5-e03c-4d05-aa719e41e90f",
+    "document": "4aec7a57-e901-363a-8c98-9a01c90f1e4b",
+    "q": "How does the MS-500's bayonet mount for a 2/3-inch broadcast lens affect the camera?",
+    "a": "the MS-500's bayonet mount for a 2/3-inch broadcast lens enables the camera to utilise Canon's extensive range of broadcast lenses"
+  },
+  {
+    "id": "29cb48d8-2997-90f6-8129-7be7e1c1434d",
+    "document": "4aec7a57-e901-363a-8c98-9a01c90f1e4b",
+    "q": "What is this able to resolve?",
+    "a": "subjects several kilometres away"
+  },
+  {
+    "id": "bedfefd2-33ee-2474-d8ef-c4b8b153fec4",
+    "document": "efec7573-1dbd-1a8f-3b3d-4c70a47fc26c",
+    "q": "What is an advantage of using a full-frame sensor over an APS-C sensor?",
+    "a": "a camera with a full-frame sensor should deliver a wider dynamic range and better low-light performance"
+  },
+  {
+    "id": "bf75b580-11f5-f14e-a877-713404a3cbdc",
+    "document": "efec7573-1dbd-1a8f-3b3d-4c70a47fc26c",
+    "q": "How do APS-C sensors compare to full-frame sensors?",
+    "a": "APS-C sensors are physically smaller than full-frame sensors"
+  },
+  {
+    "id": "810eb06b-2d26-f68c-6bc1-a8a259a5b602",
+    "document": "efec7573-1dbd-1a8f-3b3d-4c70a47fc26c",
+    "q": "What does a camera have if it has a larger area?",
+    "a": "larger photosites, which will be capable of capturing more light"
+  },
+  {
+    "id": "adafa848-42af-e0de-2398-f33a0d2d58f5",
+    "document": "efec7573-1dbd-1a8f-3b3d-4c70a47fc26c",
+    "q": "What is an important factor when comparing sensor sizes?",
+    "a": "The physical size of the sensor is an important factor"
+  },
+  {
+    "id": "3ef64f55-a979-d5d0-f9f7-4e20cc152077",
+    "document": "efec7573-1dbd-1a8f-3b3d-4c70a47fc26c",
+    "q": "What type of performance can a camera with a full-frame sensor deliver compared to one with an APS-C sensor?",
+    "a": "a wider dynamic range and better low-light performance"
+  },
+  {
+    "id": "953095d6-9b41-e2c3-f249-686b2246f200",
+    "document": "efec7573-1dbd-1a8f-3b3d-4c70a47fc26c",
+    "q": "How do larger photosites on a sensor affect low-light performance?",
+    "a": "larger photosites will be capable of capturing more light"
+  },
+  {
+    "id": "c646e683-cb7f-05bb-c974-cce7bb6c8e20",
+    "document": "d907627f-2107-2bf5-f335-b3e48dcbc4c5",
+    "q": "What does this make full-frame cameras such as the EOS R1 and EOS R5 Mark II?",
+    "a": "This makes full-frame cameras such as the EOS R1 and EOS R5 Mark II a favourite choice for professionals, particularly those shooting landscapes, architecture or portraits"
+  },
+  {
+    "id": "4b0776fd-21cf-5174-2bce-adb56f6eeb90",
+    "document": "d907627f-2107-2bf5-f335-b3e48dcbc4c5",
+    "q": "What happens when using APS-C sensors with the same lens and settings as a full-frame camera?",
+    "a": "your subject will fill more of the frame than it would if you used the same lens with the same settings on a full-frame camera"
+  },
+  {
+    "id": "428a7188-2dce-e788-c21d-dca014c1625e",
+    "document": "d907627f-2107-2bf5-f335-b3e48dcbc4c5",
+    "q": "What effect does the use of an APS-C sensor have on your lens?",
+    "a": "an APS-C sensor increases the reach of your lens"
+  },
+  {
+    "id": "71c8ffe1-50ba-5c69-e5b5-912857ac6680",
+    "document": "d907627f-2107-2bf5-f335-b3e48dcbc4c5",
+    "q": "What advantages do full-frame cameras such as the EOS R1 and EOS R5 Mark II have that make them a favourite choice for professionals?",
+    "a": "This makes full-frame cameras such as the EOS R1 and EOS R5 Mark II a favourite choice for professionals, particularly those shooting landscapes, architecture or portraits"
+  },
+  {
+    "id": "d6155c9d-1368-007b-d8d1-1948385b1aba",
+    "document": "d907627f-2107-2bf5-f335-b3e48dcbc4c5",
+    "q": "What are the advantages of using APS-C sensors?",
+    "a": "because APS-C sensors are smaller, your subject will fill more of the frame than it would if you used the same lens with the same settings on a full-frame camera"
+  },
+  {
+    "id": "b0612ada-c62b-5979-f1a0-c0fee008e5b1",
+    "document": "d907627f-2107-2bf5-f335-b3e48dcbc4c5",
+    "q": "What benefit does an APS-C sensor provide in terms of lens reach?",
+    "a": "an APS-C sensor increases the reach of your lens"
+  },
+  {
+    "id": "44d8ae31-51e0-2629-69b5-bd7298822078",
+    "document": "29a18f61-1660-ad5f-cd62-86547863c513",
+    "q": "What are the APS-C sensors?",
+    "a": "Conversely, because APS-C sensors are smaller"
+  },
+  {
+    "id": "252ec65c-d140-f495-89fe-dc628d2613b6",
+    "document": "29a18f61-1660-ad5f-cd62-86547863c513",
+    "q": "What happens to the reach of your lens when you use an APS-C sensor?",
+    "a": "an APS-C sensor increases the reach of your lens"
+  },
+  {
+    "id": "09bf57f5-0421-b427-dfb1-da33ccd29319",
+    "document": "29a18f61-1660-ad5f-cd62-86547863c513",
+    "q": "What is the crop factor?",
+    "a": "the crop factor is approximately 1.6x"
+  },
+  {
+    "id": "677d7e3e-8e1d-fd38-62ee-42a5e995f12a",
+    "document": "29a18f61-1660-ad5f-cd62-86547863c513",
+    "q": "What does a 50mm lens become with the crop factor?",
+    "a": "the field of view of an 80mm lens"
+  },
+  {
+    "id": "f49f9e24-97a1-c085-3b56-dbcca468ce0f",
+    "document": "29a18f61-1660-ad5f-cd62-86547863c513",
+    "q": "What is the effect of using an APS-C sensor?",
+    "a": "your subject will fill more of the frame than it would if you used the same lens with the same settings on a full-frame camera \u2013 so in effect, an APS-C sensor increases the reach of your lens"
+  },
+  {
+    "id": "8819a73c-29f9-3477-6313-be188d6ea14b",
+    "document": "29a18f61-1660-ad5f-cd62-86547863c513",
+    "q": "What does this imply about APS-C cameras?",
+    "a": "APS-C cameras are smaller and lighter than their full-frame counterparts, making them a great option for travel or nature shoots"
+  },
+  {
+    "id": "cb9b54ce-9426-3533-9f85-907d5dfa6f99",
+    "document": "29a18f61-1660-ad5f-cd62-86547863c513",
+    "q": "What are the characteristics of APS-C cameras such as the EOS R50 and EOS R10?",
+    "a": "APS-C cameras such as the EOS R50 and EOS R10 are smaller and lighter than their full-frame counterparts"
+  },
+  {
+    "id": "24703841-0979-fe6b-a6b8-48e73bea3f34",
+    "document": "29a18f61-1660-ad5f-cd62-86547863c513",
+    "q": "How are APS-C sensors different from full-frame cameras?",
+    "a": "Conversely, because APS-C sensors are smaller"
+  },
+  {
+    "id": "023a3aa3-7b54-26e3-c2bb-995e867e345c",
+    "document": "29a18f61-1660-ad5f-cd62-86547863c513",
+    "q": "What happens when using the same lens on an APS-C sensor camera as on a full-frame camera?",
+    "a": "your subject will fill more of the frame"
+  },
+  {
+    "id": "74cdd4e0-a798-c4dd-007f-bac9f09707ef",
+    "document": "29a18f61-1660-ad5f-cd62-86547863c513",
+    "q": "What is the 'crop factor' in Canon cameras approximately equal to?",
+    "a": "approximately 1.6x"
+  },
+  {
+    "id": "ceb838c7-a8a8-aba3-6493-513b22596fb6",
+    "document": "29a18f61-1660-ad5f-cd62-86547863c513",
+    "q": "What does this mean for travel or nature photography?",
+    "a": "APS-C cameras are smaller and lighter than their full-frame counterparts, making them a great option for travel or nature shoots"
+  },
+  {
+    "id": "fc0f7735-949b-aae9-aa87-ef40387ea81b",
+    "document": "29a18f61-1660-ad5f-cd62-86547863c513",
+    "q": "How do APS-C sensors affect the reach of your lens?",
+    "a": "an APS-C sensor increases the reach of your lens"
+  },
+  {
+    "id": "05e8ca0f-ae0c-85b9-6f91-1c9529719374",
+    "document": "29a18f61-1660-ad5f-cd62-86547863c513",
+    "q": "What is the field of view of a 50mm lens with the crop factor?",
+    "a": "the field of view of an 80mm lens"
+  },
+  {
+    "id": "95515e60-89c9-a002-ce7f-ef9f8eb61928",
+    "document": "29a18f61-1660-ad5f-cd62-86547863c513",
+    "q": "How do APS-C cameras such as the EOS R10 make photographers' tasks easier?",
+    "a": "APS-C cameras such as the EOS R50 and EOS R10 are smaller and lighter than their full-frame counterparts, making them a great option for travel or nature shoots."
+  },
+  {
+    "id": "4bdcd917-ccff-f1ca-1dc5-458c8ae20d67",
+    "document": "0b49327b-317b-6cc5-116c-3ba322217417",
+    "q": "What is the approximate area of the Super 35mm sensor?",
+    "a": "24.6 x 13.8mm"
+  },
+  {
+    "id": "e559df0b-1da5-07df-7448-96eee434148a",
+    "document": "0b49327b-317b-6cc5-116c-3ba322217417",
+    "q": "What type of cameras use a range of other sensor sizes?",
+    "a": "Camcorders and other camera types use a range of other sensor sizes"
+  },
+  {
+    "id": "4fb25b7c-dc14-8cba-f848-2eceb499ca0e",
+    "document": "0b49327b-317b-6cc5-116c-3ba322217417",
+    "q": "What type of cameras use a range of other sensor sizes, such as the 20.1MP 1.0-type stacked CMOS sensor in the compact PowerShot G7 X Mark III and the 11.7MP 1/2.3 CMOS sensor in the PowerShot PX?",
+    "a": "Camcorders and other camera types"
+  },
+  {
+    "id": "621b54ad-40d0-abce-3377-d7eb6b608e67",
+    "document": "0b49327b-317b-6cc5-116c-3ba322217417",
+    "q": "What kind of sensor sizes do camcorders and other camera types use?",
+    "a": "camcorders and other camera types use a range of other sensor sizes"
+  },
+  {
+    "id": "dd35496b-3ca1-6f88-7892-e485b9afe90c",
+    "document": "0b49327b-317b-6cc5-116c-3ba322217417",
+    "q": "What do other camera types use along with camcorders?",
+    "a": "Camcorders and other camera types use a range of other sensor sizes, such as the 20.1MP 1.0-type stacked CMOS sensor in the compact PowerShot G7 X Mark III and the 11.7MP 1/2.3 CMOS sensor in the PowerShot PX."
+  },
+  {
+    "id": "90f8d3fd-4002-9c0d-a936-a048be020464",
+    "document": "0b49327b-317b-6cc5-116c-3ba322217417",
+    "q": "What is the approximate area of the APS-C sensor?",
+    "a": "22.2 x 14.8mm"
+  },
+  {
+    "id": "fda2ad48-39f4-5c2c-c579-83e8b1b038a5",
+    "document": "c57907fe-0c5b-4661-b8e7-aca81b0492cd",
+    "q": "What types of sensors come in different sizes?",
+    "a": "CMOS sensors come in different sizes"
+  },
+  {
+    "id": "442119ec-74f4-a61c-a5c0-c560607ae8eb",
+    "document": "c57907fe-0c5b-4661-b8e7-aca81b0492cd",
+    "q": "What does a full-frame sensor have in comparison to an APS-C sensor?",
+    "a": "A full-frame sensor has approximately 1.6x the active surface area of an APS-C sensor"
+  },
+  {
+    "id": "b5e5004f-e933-2430-d011-a4393e539f68",
+    "document": "c57907fe-0c5b-4661-b8e7-aca81b0492cd",
+    "q": "How do CMOS sensors vary?",
+    "a": "CMOS sensors come in different sizes"
+  },
+  {
+    "id": "3a488f6a-2e8f-de4c-cba0-3c38d5d8006c",
+    "document": "c57907fe-0c5b-4661-b8e7-aca81b0492cd",
+    "q": "How does the size of a full-frame sensor compare to an APS-C sensor?",
+    "a": "A full-frame sensor has approximately 1.6x the active surface area of an APS-C sensor"
+  },
+  {
+    "id": "350caec4-144b-34a8-ddb4-66fdc8417614",
+    "document": "9fd2fe4c-ae77-7585-5d1d-ef4b300fa555",
+    "q": "How large might be the pixel pitch of a 21MP APS-C camera?",
+    "a": "a pixel pitch of about 4.22 microns"
+  },
+  {
+    "id": "3ccb4a36-f266-1c20-ae2f-f9faa2743458",
+    "document": "9fd2fe4c-ae77-7585-5d1d-ef4b300fa555",
+    "q": "What act as light buckets in the camera?",
+    "a": "photosites act as light buckets"
+  },
+  {
+    "id": "deabf8b9-1f05-43c9-cd94-570a63545a0f",
+    "document": "9fd2fe4c-ae77-7585-5d1d-ef4b300fa555",
+    "q": "What captures more photons with relatively less random noise?",
+    "a": "a larger photosite captures more photons with relatively less random noise"
+  },
+  {
+    "id": "e9a6b174-917e-5d80-c2a4-a700801cb298",
+    "document": "9fd2fe4c-ae77-7585-5d1d-ef4b300fa555",
+    "q": "What captures more rainwater?",
+    "a": "a wider bucket captures more rainwater"
+  },
+  {
+    "id": "c06086cf-468c-9190-2612-1c8ffb70942a",
+    "document": "9fd2fe4c-ae77-7585-5d1d-ef4b300fa555",
+    "q": "How many microns does a 21MP APS-C camera have as pixel pitch?",
+    "a": "about 4.22 microns"
+  },
+  {
+    "id": "9e52b072-75cb-19eb-9e1c-681235c96767",
+    "document": "9fd2fe4c-ae77-7585-5d1d-ef4b300fa555",
+    "q": "How does the size of the photosite affect the amount of photons captured?",
+    "a": "a larger photosite captures more photons"
+  },
+  {
+    "id": "18141e15-7d0b-264e-4599-5339d3b80379",
+    "document": "9fd2fe4c-ae77-7585-5d1d-ef4b300fa555",
+    "q": "How do photosites function in the camera?",
+    "a": "photosites act as light buckets"
+  },
+  {
+    "id": "8ef204c6-6196-a0cf-bf56-ea9a91294155",
+    "document": "9fd2fe4c-ae77-7585-5d1d-ef4b300fa555",
+    "q": "How would a wider bucket capture water compared to a narrower bucket?",
+    "a": "a wider bucket would capture more rainwater than a narrower bucket"
+  },
+  {
+    "id": "0765f9f0-cf83-a17f-2b64-7d1e63ccc946",
+    "document": "0ddd5f68-cc63-48b3-5bf4-20f4337a927d",
+    "q": "What factors contribute to the decision of sensor size?",
+    "a": "The choice of sensor size depends largely on your shooting requirements and budget"
+  },
+  {
+    "id": "cc37acdc-8995-a449-2a5f-7d5e1a5f4964",
+    "document": "0ddd5f68-cc63-48b3-5bf4-20f4337a927d",
+    "q": "What can you achieve by understanding the unique features of each sensor size?",
+    "a": "Each sensor size offers distinct advantages, and understanding these can help you select the right camera for your specific needs"
+  },
+  {
+    "id": "23b5c9c5-04d3-5d7f-bbb3-a1e677cd38b5",
+    "document": "0ddd5f68-cc63-48b3-5bf4-20f4337a927d",
+    "q": "What can you see that provides a simpler measure for comparing different cameras and different technologies?",
+    "a": "standardising on 'effective pixels' provides a simpler measure for comparing different cameras and different technologies"
+  },
+  {
+    "id": "cd23b8b0-e4ae-0b70-1b48-1b349f018ad8",
+    "document": "0ddd5f68-cc63-48b3-5bf4-20f4337a927d",
+    "q": "What influences the choice of sensor size?",
+    "a": "your shooting requirements and budget"
+  },
+  {
+    "id": "511a156c-0f3f-5160-8c31-2d51c26d76f7",
+    "document": "0ddd5f68-cc63-48b3-5bf4-20f4337a927d",
+    "q": "What knowledge can you gain from understanding the distinct advantages of each sensor size?",
+    "a": "Each sensor size offers distinct advantages, and understanding these can help you select the right camera for your specific needs"
+  },
+  {
+    "id": "d155059b-de1a-a51c-efcb-92e9ff82fd81",
+    "document": "0ddd5f68-cc63-48b3-5bf4-20f4337a927d",
+    "q": "How does you help in comparing different cameras and different technologies?",
+    "a": "standardising on effective pixels provides a simpler measure for comparing different cameras and different technologies"
+  }
+]
